@@ -1,0 +1,23 @@
+*{
+        box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+ /* header*/
+ .container{
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.container .link-logo{
+    
+}
+
+
+
+
+  /* main*/
+   /* footer*/
